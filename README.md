@@ -1,6 +1,6 @@
-# Walking Analytics Library
+# Pedometer Library
 
-This repository provides algorithms and data structures for analyzing walking patterns. It utilizes accelerometer data and angle information to compute step counts and body movements during walking.
+This repository provides algorithms and data structures for a pedometer based on ADXL345 by **Analog Devices, Inc.**. It utilizes accelerometer data and angle information to compute step counts and body movements during walking.
 
 ## Data Definition
 
